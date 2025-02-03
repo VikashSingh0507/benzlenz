@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Khuda Jane 
 - 📫 How to reach me ...Insta : @benz_lens
 
-- ⚡ Fun fact: ...Me Kubhi kubhi kaam bhi kr leta hoon
+- ⚡ Fun fact: ...Me Kabhi kabhi kaam bhi kr leta hoon
 
 <!---
 benzlenz/benzlenz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
